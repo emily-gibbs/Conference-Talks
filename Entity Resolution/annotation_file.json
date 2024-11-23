@@ -1,0 +1,1445 @@
+{
+  "version": 1,
+  "pairs": [
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : alexander",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : alexander",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : dent",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : dent",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 21",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 21",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : theodore street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : henrykenda ll bayside",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : henry kendall bayside",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : theodore street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : devonport",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : devonport",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 2000",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 2000",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19000603",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19000603",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7769362",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7769362",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-3850-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-3850-dup-0"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : brody",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : joshua",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : morrison",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : morrison",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 25",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 59",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : chave street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : badimara street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : pleasant acres",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : the swamp",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : lakes entrance",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : plympton south",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 3763",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 4701",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19380113",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19011002",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 8281513",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 9794528",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-483-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-2375-org"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : maya",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : madison",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : white",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : white",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 55",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 6",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : florencetaylor street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : brinkley circuit",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : moonabba",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : hurstville south",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : townsend",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 6714",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 2219",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : sa",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19460501",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19250914",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 5257846",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 4485116",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-748-dup-1"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-876-org"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : india",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : india",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : rees",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : rees",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 25",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 25",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : waterfield place",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : waterfieldplace",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : brunswick west",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : brunswick west",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 5014",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 5014",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : qld",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : qld",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19400318",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : None Given",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 1262198",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 1262198",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-1544-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-1544-dup-2"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : stirling",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : stirling",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : leslie",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : None Given",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 6",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 6",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : mortimer lewis drive",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : mortimer lewis drive",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : telebang tsation",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : telebang station",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : port lincoln",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : port lincoln",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 6503",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 6506",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19311106",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7452730",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7452730",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-107-dup-2"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-107-dup-1"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : michelle",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : mitchell",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : everett",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : marshman",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 176",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 17",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : rivett street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : castleton crescent",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : west wollongong",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : boronia west",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 3280",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 3147",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19510721",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19280701",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 2692768",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7123091",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-3765-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-1191-org"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : molly",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : molly",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : baillie",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : baillie",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 49",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 49",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : bibby place",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : bibby place",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : chippendale village",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : chippendale ivllage",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : greens creek",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : green screek",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 3045",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 3054",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : nsw",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19050529",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19050529",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 4210252",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 4210252",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-3704-dup-0"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-3704-dup-2"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : naomi",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : joe",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : white",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : white",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 25",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : buxton street",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : dryandra street",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : woodstock park",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : ellanbah",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : toowoomba",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : burwood",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 2800",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 2204",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : sa",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19260225",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19140217",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 4422830",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 8103556",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-1071-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-1434-org"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : ethan",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : petreece",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : lusted",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : lusted",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 78",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 78",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : baseby lace",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : baseby place",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : None Given",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : kiara",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : east branxton",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 6214",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 6214",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : sa",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : sa",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19950620",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19950620",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 8084076",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 8084076",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-1684-dup-0"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-1684-org"
+        }
+      }
+    },
+    {
+      "fields": [
+        {
+          "a": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : eliza",
+            "type": "String"
+          },
+          "b": {
+            "name": "given_name",
+            "value": "GIVEN_NAME : baij",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "surname",
+            "value": "SURNAME : bail",
+            "type": "String"
+          },
+          "b": {
+            "name": "surname",
+            "value": "SURNAME : eliza",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : None Given",
+            "type": "String"
+          },
+          "b": {
+            "name": "street_number",
+            "value": "STREET_NUMBER : 112",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : colebatch place",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_1",
+            "value": "ADDRESS_1 : colebatch lace",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : lasswade",
+            "type": "String"
+          },
+          "b": {
+            "name": "address_2",
+            "value": "ADDRESS_2 : lasswade",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "suburb",
+            "value": "SUBURB : leith",
+            "type": "String"
+          },
+          "b": {
+            "name": "suburb",
+            "value": "SUBURB : leith",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "postcode",
+            "value": "POSTCODE : 2795",
+            "type": "String"
+          },
+          "b": {
+            "name": "postcode",
+            "value": "POSTCODE : 2795",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "b": {
+            "name": "state",
+            "value": "STATE : vic",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19910109",
+            "type": "String"
+          },
+          "b": {
+            "name": "date_of_birth",
+            "value": "DATE_OF_BIRTH : 19910109",
+            "type": "String"
+          },
+          "similarity": null
+        },
+        {
+          "a": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7003514",
+            "type": "String"
+          },
+          "b": {
+            "name": "soc_sec_id",
+            "value": "SOC_SEC_ID : 7003514",
+            "type": "String"
+          },
+          "similarity": null
+        }
+      ],
+      "identifiers": {
+        "a": {
+          "dataset": null,
+          "record": "rec-3791-org"
+        },
+        "b": {
+          "dataset": null,
+          "record": "rec-3791-dup-1"
+        }
+      }
+    }
+  ]
+}
